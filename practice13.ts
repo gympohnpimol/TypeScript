@@ -19,6 +19,6 @@ console.log(arr2.filter(item => item < 100));
 console.log(arr3.find(item => item == "Banana"));
 console.log(arr3.findIndex(item => item == "Banana"));
 //7
-arr1.forEach((item) => {console.log(`${item}  has a lenght as ${item.length}`);});
+arr1.forEach((item) => {console.log(`${item}  has a length as ${item.length}`);});
 
 
